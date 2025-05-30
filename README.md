@@ -40,7 +40,7 @@ car-damage-detection/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/car-damage-detection.git
+git clone https://github.com/ankit85810/car-damage-detection.git
 cd car-damage-detection
 
 # (Optional) Create virtual environment
@@ -76,9 +76,6 @@ torch==2.5.1
 torchvision==0.20.1
 ```
 
-## 👤 Author
-
-- **Your Name** – [your-email@example.com](mailto:your-email@example.com)
 
 ## 📝 License
 
